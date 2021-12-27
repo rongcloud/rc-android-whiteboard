@@ -1,0 +1,55 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+    <string name="app_name">融云白板</string>
+    <string name="logo_title">融云白板</string>
+    <string name="wb_login_account_et_hint_text">请输入手机号</string>
+    <string name="login_pwd_text">验证码</string>
+    <string name="login_input_verification_code_hint">请输入验证码</string>
+    <string name="wb_login_send_code_text">获取验证码</string>
+    <string name="wb_login_btn_text">登录</string>
+    <string name="login_agree_registration_terms_text">同意⟪注册条款⟫</string>
+    <string name="login_tip_text">新登录用户即注册开通融云开发者账号</string>
+    <string name="login_version_text">融云白板 v1.0.0</string>
+    <string name="tip_param_input_phone">请输入手机号</string>
+    <string name="tip_valid_param_input_number">请输入有效的手机号</string>
+    <string name="tip_param_verify_code_error">验证码错误</string>
+    <string name="title_join_room">加入房间</string>
+    <string name="role_tip_test">您是%s</string>
+    <string name="join_room_input_room_number_hint">请输入房间号</string>
+    <string name="btn_join_room_text">加入房间</string>
+    <string name="title_setting">设置</string>
+    <string name="setting_account_text">账号</string>
+    <string name="setting_account_name">昵称</string>
+    <string name="app_logout">退出登录</string>
+    <string name="title_update_name">更改昵称</string>
+    <string name="title_right_save_name">保存</string>
+    <string name="title_video_record">录像回放</string>
+    <string name="item_video_room_num">房间号</string>
+    <string name="video_record_time">录制开始</string>
+    <string name="video_record_duration">录制时长</string>
+    <string name="agree_read_regist_term_text">请先阅读并同意⟪注册条款⟫</string>
+    <string name="login_success_toast">登录成功</string>
+
+    <string name="srl_content_empty">The content view in SmartRefreshLayout is empty. Do you forget to add it in xml layout file?</string>
+    <string name="srl_component_falsify" formatted="false">%s falsify area,\n Represents the height[%.1fdp] of drag at run time,\n It does not show anything.</string>
+
+    <string name="srl_header_pulling">下拉可以刷新</string>
+    <string name="srl_header_refreshing">正在刷新…</string>
+    <string name="srl_header_loading">等待底部加载完成…</string>
+    <string name="srl_header_release">释放立即刷新</string>
+    <string name="srl_header_finish">刷新完成</string>
+    <string name="srl_header_failed">刷新失败</string>
+    <string name="srl_header_update">上次更新 M-d HH:mm</string>
+    <string name="srl_header_secondary">释放进入二楼</string>
+
+    <string name="srl_footer_pulling">上拉加载更多</string>
+    <string name="srl_footer_release">释放立即加载</string>
+    <string name="srl_footer_loading">正在加载…</string>
+    <string name="srl_footer_refreshing">等待头部刷新完成…</string>
+    <string name="srl_footer_finish">加载完成</string>
+    <string name="srl_footer_failed">加载失败</string>
+    <string name="srl_footer_nothing">没有更多数据了</string>
+
+    <string name="title_regist_term">注册条款</string>
+    <string name="tip_param_verify_code_empty_error">请输入验证码</string>
+    <string name="tip_param_verify_code_expired_error">验证码过期</string>
+</resources>
